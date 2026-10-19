@@ -1,113 +1,96 @@
-<!-- ⚜️ CONCEPTUAL FINE-LINE TATTOO THEME • KIVSSSS ⚜️ -->
+<!-- ⛏️ MINECRAFT-THEMED PROFILE • Kivssss -->
 
 <p align="center">
-  <img src="./assets/tattoo-emblem.svg" width="100%" alt="Kivssss Emblem" />
+  <img src="./assets/minecraft-banner.svg" width="100%" alt="Kivsss Minecraft banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&pause=1400&color=7D6B56&center=true&vCenter=true&width=700&lines=STUDENT+OF+ENGINEERING+%26+SYSTEMS;CRAFTING+PRECISE%2C+ELEGANT+CODE;ARCHITECTING+SOLUTIONS+FOR+OTHERS;DISCENDO+ARTE+%C2%B7+EXCELLENTIA+SERVIENDO" alt="philosophy typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=55FF55&center=true&vCenter=true&width=700&lines=%3E+Kivsss+joined+the+game;%3E+Level+23+Engineering+Student;%3E+Crafting+with+HTML%2C+CSS%2C+JS+%26+Python;%3E+Achievement+unlocked%3A+Always+Learning%21" alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kivssss&label=ARCHIVE+VISITORS&color=B5935A&style=flat-square" alt="visitors" />
-  <a href="https://github.com/Kivssss?tab=followers"><img src="https://img.shields.io/github/followers/Kivssss?label=CIRCLE&style=flat-square&color=2D2A26&labelColor=B5935A" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kivssss&label=Players%20Joined&color=55FF55&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/Kivssss?tab=followers"><img src="https://img.shields.io/github/followers/Kivssss?label=Party%20Members&style=for-the-badge&color=5D9B3A&labelColor=866043" alt="followers" /></a>
 </p>
 
-<p align="center">
-  <img src="./assets/tattoo-divider.svg" width="100%" alt="divider" />
-</p>
+<img src="./assets/grass-divider.svg" width="100%" />
 
-### ✦ I. THE PHILOSOPHY &amp; PROFILE
+## 📜 Player Info
 
 <table>
   <tr>
-    <td width="65%" style="vertical-align: top;">
+    <td width="65%">
 
-> *"Every line of code, like ink drawn into skin, demands intention, discipline, and endurance."*
+**🧑 Name:** Kivsss<br/>
+**⭐ Level:** 23<br/>
+**🎓 Class:** Engineering Student<br/>
+**🗺️ Biome:** Learning & Building<br/>
+**🎯 Current Quest:** Grow myself while helping others<br/>
 
-I am a **23-year-old engineering scholar** dedicated to methodical continuous refinement. I believe true mastery lies in dedicating oneself completely to the craft—delivering results that are not merely functional, but crafted with precision and purpose to elevate and serve those around me.
-
-- 🏛️ **Discipline:** Engineering &amp; Computing Systems
-- 🧭 **Focus:** High-reliability web software, algorithmic logic, and clean interface ergonomics
-- 📜 **Core Axiom:** *Excellence through service; clarity through restraint.*
+> *"I give all to my work and tasks to deliver great, satisfying results. Always eager to learn new things, for myself and for others."*
 
 </td>
-    <td width="35%" align="center" style="vertical-align: middle;">
-      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/203780122?v=4&w=180&h=180&fit=cover&mask=circle&sat=-60&con=20" width="150" alt="Kivssss" style="border-radius: 50%; border: 2px solid #B5935A;" />
-      <br/>
-      <sub><b style="letter-spacing: 2px; color: #7D6B56;">KIVSSSS</b></sub>
+    <td width="35%" align="center">
+      <img src="https://mc-heads.net/body/MHF_Steve/180" alt="Steve" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/tattoo-divider.svg" width="100%" alt="divider" />
-</p>
+<img src="./assets/grass-divider.svg" width="100%" />
 
-### ✦ II. THE CODEX &amp; DISCIPLINES
+## 🎒 Inventory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light&perline=7" alt="disciplines" />
+  <img src="./assets/minecraft-hotbar.svg" width="100%" alt="Tech stack hotbar" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FBF9F5?style=flat-square&logo=html5&logoColor=2D2A26" />
-  <img src="https://img.shields.io/badge/CSS3-FBF9F5?style=flat-square&logo=css3&logoColor=2D2A26" />
-  <img src="https://img.shields.io/badge/JavaScript-FBF9F5?style=flat-square&logo=javascript&logoColor=2D2A26" />
-  <img src="https://img.shields.io/badge/Python-FBF9F5?style=flat-square&logo=python&logoColor=2D2A26" />
-  <img src="https://img.shields.io/badge/Git-FBF9F5?style=flat-square&logo=git&logoColor=2D2A26" />
-  <img src="https://img.shields.io/badge/VS_Code-FBF9F5?style=flat-square&logo=visualstudiocode&logoColor=2D2A26" />
-</p>
+<details>
+  <summary>🔍 <b>Open Full Chest</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" alt="skills" />
+  </p>
+</details>
 
-<p align="center">
-  <img src="./assets/tattoo-divider.svg" width="100%" alt="divider" />
-</p>
+<img src="./assets/grass-divider.svg" width="100%" />
 
-### ✦ III. SELECTED WORKS &amp; ARCHITECTURE
+## 🏗️ My Builds
 
 <p align="center">
   <a href="https://github.com/Kivssss/Floodguard-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kivssss&repo=Floodguard-app&bg_color=FBF9F5&title_color=2D2A26&text_color=5C5549&icon_color=B5935A&border_color=D1C4AD" alt="Floodguard Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kivssss&repo=Floodguard-app&bg_color=1E1E1E&title_color=55FF55&text_color=FFFFFF&icon_color=FFAA00&border_color=5D9B3A" alt="Floodguard" />
   </a>
 </p>
 
-| Opus | Description | Medium |
-| :--- | :--- | :--- |
-| 🛡️ **[Floodguard App](https://github.com/Kivssss/Floodguard-app)** | A civic monitoring architecture delivering real-time sensory alerts to protect communities against environmental hazards. | HTML · CSS · JS |
+| 🧱 Build | 📖 Description | ⚒️ Crafted With |
+|---|---|---|
+| 🌊 **[Floodguard](https://github.com/Kivssss/Floodguard-app)** | Flood monitoring & alert app that helps communities stay safe and prepared. | HTML · CSS · JS |
+
+<img src="./assets/grass-divider.svg" width="100%" />
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="./assets/tattoo-divider.svg" width="100%" alt="divider" />
-</p>
-
-### ✦ IV. ARCHIVAL METRICS
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kivssss&show_icons=true&count_private=true&bg_color=FBF9F5&title_color=2D2A26&text_color=5C5549&icon_color=B5935A&border_color=D1C4AD" alt="Metrics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kivssss&layout=compact&bg_color=FBF9F5&title_color=2D2A26&text_color=5C5549&border_color=D1C4AD" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kivssss&background=FBF9F5&border=D1C4AD&stroke=D1C4AD&ring=B5935A&fire=B5935A&currStreakNum=2D2A26&sideNums=7D6B56&currStreakLabel=B5935A&sideLabels=7D6B56&dates=9D8462" alt="Streak Record" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kivssss&show_icons=true&count_private=true&bg_color=1E1E1E&title_color=55FF55&text_color=FFFFFF&icon_color=FFAA00&border_color=5D9B3A" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kivssss&layout=compact&bg_color=1E1E1E&title_color=55FF55&text_color=FFFFFF&border_color=5D9B3A" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="./assets/tattoo-divider.svg" width="100%" alt="divider" />
+  <img src="https://streak-stats.demolab.com?user=Kivssss&background=1E1E1E&border=5D9B3A&stroke=5D9B3A&ring=55FF55&fire=FFAA00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=55FF55&sideLabels=55FF55&dates=AAAAAA" alt="streak" />
 </p>
 
-### ✦ V. CELESTIAL DISPATCH &amp; CONNECTIONS
+<img src="./assets/grass-divider.svg" width="100%" />
+
+## 📡 Join My Server
 
 <p align="center">
-  <a href="https://github.com/Kivssss"><img src="https://img.shields.io/badge/GitHub-F5F0E6?style=for-the-badge&logo=github&logoColor=2D2A26" /></a>
+  <a href="https://github.com/Kivssss"><img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=55FF55" /></a>
   <!-- Paste your real links below:
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Dispatch_Letter-F5F0E6?style=for-the-badge&logo=gmail&logoColor=B5935A" /></a>
-  <a href="https://linkedin.com/in/your_profile"><img src="https://img.shields.io/badge/LinkedIn_Archive-F5F0E6?style=for-the-badge&logo=linkedin&logoColor=2D2A26" /></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=FF5555" /></a>
+  <a href="https://linkedin.com/in/your_profile"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=55FFFF" /></a>
   -->
 </p>
 
-<p align="center">
-  <sub><i>« Finis coronat opus — The end crowns the work »</i></sub>
-</p>
+<p align="center"><code>&lt;Kivsss&gt; Thanks for visiting! Don't forget to ⭐ and follow!</code></p>
 
-<p align="center">
-  <img src="./assets/tattoo-divider.svg" width="100%" alt="divider" />
-</p>
+<img src="./assets/grass-divider.svg" width="100%" />
